@@ -1,5 +1,5 @@
 === WP eCommerce Wishlist ===
-Contributors: Fahad Mahmood
+Contributors: fahadmahmood
 Tags: wp ecommerce, e-commerce, wishlist, wish list, add to wishlist
 Requires at least: 3.5
 Tested up to: 4.0
