@@ -33,11 +33,9 @@ Visit my blog and suggest good features which you wana see in this plugin.
 
 = Custom Options =
 	
-	1. Install Plugin
-	2. Add eCommerce Wishlist Widget from your theme
-	3. No need short code
-	4. No need functions
-	5. Just install and add wp ecommerce wishlist widget on your sidebar or where you want in your theme 
+	1. Download and install plugin
+	2. Add eCommerce Wishlist Widget from Appearance > Widgets
+	3. WP eCommerce add to wishlist buton will appear in your products area
 
 == Installation ==
 To use this plugin, you will need:
@@ -69,18 +67,18 @@ Method-A:
 
 Method-B:
 
-1.	Download the Alphabetic Pagination installation package and extract the files on
+1.	Download the WP eCommerce Wishlist installation package and extract the files on
 
 	your computer. 
 2.	Create a new directory with the name of this plugin in the `wp-content/plugins`
 
 	directory of your WordPress installation. Use an FTP or SFTP client to
 
-	upload the contents of your Alphabetic Pagination archive to the new directory
+	upload the contents of your WP eCommerce Wishlist archive to the new directory
 
 	that you just created on your web host.
 3.	Log in to the WordPress Dashboard and activate this plugin.
-4.	Once the plugin is activated, a new **Alphabetic Pagination** sub-menu will appear in your Wordpress admin -> settings menu.
+4.	Once the plugin is activated, a new **WP eCommerce Wishlist** sub-menu will appear in your Wordpress admin -> settings menu.
 
 [Quick Start]: http://www.websitedesignwebsitedevelopment.com/wp-e-commerce-wish-list
 
