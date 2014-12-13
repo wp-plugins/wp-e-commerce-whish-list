@@ -45,6 +45,8 @@ function wpecwl_scripts() {
 add_action( 'wp_enqueue_scripts', 'wpecwl_scripts' );
 	
 function initialize_wpecwl(){
+	if(!is_user_logged_in())
+	return false;	
 	global $current_user;
 	?>
     
