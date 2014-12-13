@@ -205,6 +205,9 @@ class wpecwlWidget extends WP_Widget
  
   function widget($args, $instance)
   {
+	if(!is_user_logged_in())
+	return false;
+		  
     extract($args, EXTR_SKIP);
  
     echo $before_widget;
